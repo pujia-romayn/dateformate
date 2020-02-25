@@ -1,1 +1,1 @@
-DateFormat(new Date(),"yyyy-mm-dd");
+DateFormat(new Date(),"yyyy-MM-dd");
