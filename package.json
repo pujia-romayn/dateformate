@@ -1,0 +1,24 @@
+{
+  "name": "dateFormate",
+  "version": "1.0.0",
+  "description": "- DateFormat(new Date(),\"yyyy-MM-dd\");\r - list2tree(data)",
+  "type": "module",
+  "main": "dateformat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pujia-romayn/dateformate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pujia-romayn/dateformate/issues"
+  },
+  "homepage": "https://github.com/pujia-romayn/dateformate#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
